@@ -11,5 +11,3 @@
     android:textStyle="bold"
     android:textColor="@android:color/black"
     android:background="@drawable/bg_drawable"/>
-
-    <!--android:background="@drawable/shadow"-->
